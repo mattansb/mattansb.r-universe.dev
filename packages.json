@@ -1,14 +1,18 @@
 [
   {
+    "package": "MSBMisc",
+    "url": "https://github.com/mattansb/MSBMisc"
+  },
+  {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize"
+  },
+   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR"
   },
   {
     "package": "cheatR",
     "url": "https://github.com/mattansb/cheatR"
-  },
-  {
-    "package": "MSBMisc",
-    "url": "https://github.com/mattansb/MSBMisc"
   }
 ]
